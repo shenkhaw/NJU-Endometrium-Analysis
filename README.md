@@ -132,21 +132,7 @@ endometrium-scrna-analysis/
 
 ## Requirements
 
-The analysis uses Python and the following major packages:
-
-- Scanpy
-- AnnData
-- scvi-tools
-- NumPy
-- pandas
-- SciPy
-- scikit-learn
-- statsmodels
-- Matplotlib
-- Seaborn
-- h5py
-- openpyxl
-- adjustText
+The analysis uses Python and the major packages are provided in 'requirements.txt'
 
 ## Installation
 
