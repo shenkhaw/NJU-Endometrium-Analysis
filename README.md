@@ -133,10 +133,10 @@ The analysis uses Python and the major packages are provided in 'requirements.tx
 
 ## Installation
 
-Clone the repository:
+Open your terminal (or the VS Code integrated terminal) and run:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/shenkhaw/NJU_Endometrium_Analysis.git
 cd REPOSITORY
 ```
 
@@ -144,18 +144,13 @@ Create and activate a virtual environment:
 
 ```bash
 python -m venv .venv
-```
-
-On Windows:
-
-```bash
-.venv\Scripts\activate
+.venv\Scripts\activate  # Windows
+# source .venv/bin/activate  # Mac/Linux
 ```
 
 Install the dependencies:
 
 ```bash
-python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
