@@ -42,7 +42,7 @@ The downloaded datasets were already quality-controlled before being obtained. A
 
 Post-filtering quality-control metrics were visualised across samples.
 
-**Note:** The original unfiltered datasets were not available. Therefore, this repository does not reconstruct the original pre-QC distributions or calculate retention rates relative to the original cell populations.
+**Note:** The original unfiltered datasets were not used. Therefore, this repository does not reconstruct the original pre-QC distributions or calculate retention rates relative to the original cell populations.
 
 ### 3. Highly variable gene selection
 
@@ -127,12 +127,8 @@ endometrium-scrna-analysis/
 │   ├── pseudobulk_counts.csv
 │   ├── pseudobulk_metadata.csv
 │   └── TF_results.xlsx
-│
-└── results/
-    └── summary_tables/
-```
 
-*The directory structure above is illustrative. Actual output filenames and subdirectories depend on the notebook configuration.*
+```
 
 ## Requirements
 
@@ -226,7 +222,7 @@ The TF analysis uses paired comparisons across samples, which accounts for match
 
 The analysis also depends on the quality and annotation consistency of the publicly available input datasets. Differences in experimental protocols, sample composition, sequencing platforms and upstream processing may contribute to residual technical variation.
 
-Because unfiltered source datasets were unavailable, the original pre-QC distributions and cell-retention rates cannot be independently reconstructed.
+Becausefiltered source datasets were used, the original pre-QC distributions and cell-retention rates cannot be independently reconstructed.
 
 ## References
 
