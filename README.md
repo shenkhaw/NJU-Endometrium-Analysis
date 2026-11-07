@@ -130,7 +130,7 @@ The analysis uses Python and the major packages are provided in 'requirements.tx
 
 2. Open VS code and load the 'endometrium_analysis.ipnyb'
 
-Install the dependencies:
+3. Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
