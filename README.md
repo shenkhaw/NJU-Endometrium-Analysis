@@ -125,20 +125,10 @@ The analysis uses Python and the major packages are provided in 'requirements.tx
 
 ## Installation
 
-Open your terminal (or the VS Code integrated terminal) and run:
+1. Create a folder and put 'endometrium_final.h5ad', 'requirements.txt' and 'endometrium.analysis.ipnyb' together
+# Note: Contact author for original h5ad files
 
-```bash
-git clone https://github.com/shenkhaw/NJU_Endometrium_Analysis.git
-cd REPOSITORY
-```
-
-Create and activate a virtual environment:
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate  # Windows
-# source .venv/bin/activate  # Mac/Linux
-```
+2. Open VS code and load the 'endometrium_analysis.ipnyb'
 
 Install the dependencies:
 
