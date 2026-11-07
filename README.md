@@ -114,12 +114,6 @@ NJU-Endometrium-Analysis/
 ├── notebooks/
 │   └── endometrium_analysis.ipynb
 │
-├── Figures/
-│   ├── UMAP/
-│   ├── QC/
-│   ├── TF_Volcano/
-│   └── TF_Heatmaps/
-│
 ├── Pseudobulk/
 │   ├── pseudobulk_counts.csv
 │   ├── pseudobulk_metadata.csv
