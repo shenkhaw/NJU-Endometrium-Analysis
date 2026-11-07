@@ -126,7 +126,7 @@ The analysis uses Python and the major packages are provided in 'requirements.tx
 ## Installation
 
 1. Create a folder and put 'endometrium_final.h5ad', 'requirements.txt' and 'endometrium.analysis.ipnyb' together
-### Note: Contact author for original h5ad files
+#### Note: Contact author for original h5ad files
 
 2. Open VS code and load the 'endometrium_analysis.ipnyb'
 
