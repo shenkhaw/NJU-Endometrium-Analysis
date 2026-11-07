@@ -146,7 +146,7 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
-For reproducibility, use the package versions recorded in the environment file associated with the analysis.
+For reproducibility, use the package versions in 'requirements.txt'
 
 ## Input data
 
