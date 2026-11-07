@@ -78,8 +78,6 @@ pydantic==2.14.2
 pydantic-settings==2.16.2
 pydantic_core==2.50.2
 Pygments==2.21.0
-pymol @ file:///C:/Users/PC/Downloads/pymol-3.2.0a0-cp314-cp314-win_amd64.whl#sha256=3519f3d19ed653d2b4f10abcab952123d54884e06b6f68703b9f2985bd3750f8
-pymol-launcher @ file:///C:/Users/PC/Downloads/pymol_launcher-3.0-cp314-cp314-win_amd64.whl#sha256=466ec6e7480dcdceb8a4419c688a4db93d07963c10626e08e0e7294876390ca3
 pynndescent==0.7.0
 pyparsing==3.3.3
 pyro-api==0.1.2
