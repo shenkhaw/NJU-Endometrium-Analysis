@@ -110,9 +110,7 @@ NJU-Endometrium-Analysis/
 │
 ├── README.md
 ├── requirements.txt
-│
-├── notebooks/
-│   └── endometrium_analysis.ipynb
+├── endometrium_analysis.ipynb
 │
 ├── Pseudobulk/
 │   ├── pseudobulk_counts.csv
