@@ -106,16 +106,13 @@ These thresholds are analysis-specific and should not be interpreted as universa
 ## Repository structure
 
 ```text
-endometrium-scrna-analysis/
+NJU-Endometrium-Analysis/
 │
 ├── README.md
 ├── requirements.txt
 │
 ├── notebooks/
 │   └── endometrium_analysis.ipynb
-│
-├── data/
-│   └── Homo_sapiens_TF.txt
 │
 ├── Figures/
 │   ├── UMAP/
@@ -126,7 +123,7 @@ endometrium-scrna-analysis/
 ├── Pseudobulk/
 │   ├── pseudobulk_counts.csv
 │   ├── pseudobulk_metadata.csv
-│   └── TF_results.xlsx
+│   └── TF_Filtered_Significant.xlsx
 
 ```
 
