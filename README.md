@@ -20,8 +20,6 @@ The analysis currently includes 15 samples from five public datasets.
 | ArrayExpress | E-MTAB-14039 | FX9011, FX1106 |
 | ArrayExpress | E-MTAB-10287 | MRC_Endo8712024 |
 
-The original datasets should be cited using their respective repository records and associated publications.
-
 ## Analysis workflow
 
 ### 1. Data loading and integration
