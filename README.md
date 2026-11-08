@@ -119,7 +119,7 @@ NJU-Endometrium-Analysis/
 
 ## Requirements
 
-The analysis uses Python and the major packages are provided in 'requirements.txt'
+The analysis uses Python and the major packages are provided in 'requirements.txt'. Python version 1.14.5 **must** be used. Any difference in python version will affect the script. 
 
 ## Installation
 
@@ -145,7 +145,7 @@ The integrated AnnData object is expected to contain:
 - `X_scVI` or the corresponding trained latent representation where required by the analysis.
 - Cell-type labels or predictions in the relevant observation metadata.
 
-Large `.h5ad` files and raw downloaded datasets are not included in this repository. Obtain the original datasets from their respective public repositories and prepare the integrated input object before running the downstream analysis.
+Large `.h5ad` files and raw downloaded datasets are not included in this repository. Obtain the original datasets from their respective public repositories and or contact author. 
 
 **Important:** The pseudobulk analysis requires genuine raw counts. Normalised or log-transformed expression values must not be substituted for the raw count layer.
 
